@@ -1,0 +1,13 @@
+Animal GPT code: animal-gpt.zip Download animal-gpt.zip; clone https://github.com/nlohmann/jsonLinks to an external site. in the same folder as these files; then run: "mkdir build ; cd build ; cmake .." then run "make" every time you change your code.
+
+Prompts:
+
+Give me an animal.
+We are building a 20-questions guessing game. The answer is 'Lion'. Write the question.
+Here is a question: "Is the animal you're thinking of a carnivore?" - give me an animal where the answer is 'no'. Just say the animal. No punctuation.
+With respect to an Elephant, what is the answer to this question: "Is it a carnivore?" Say 'y' or 'n'.
+Are these animals the same: "Elephant" and "Giraffe"? Say 'y' or 'n'.
+What is a yes/no question would differentiate an elephant from a giraffe? The 'yes' answer should go with elephant.
+
+For example,
+Is it a carnivore?
